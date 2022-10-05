@@ -1,3 +1,4 @@
+```
 vue3, typescript, webpack 이 기본 스택
 
 // ref : https://cli.vuejs.org/guide/creating-a-project.html
@@ -45,3 +46,4 @@ https://type-level-typescript.com
 vuex -> pinia
 
 https://pinia.vuejs.org/
+```
