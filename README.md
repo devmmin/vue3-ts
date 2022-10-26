@@ -46,4 +46,10 @@ https://type-level-typescript.com
 vuex -> pinia
 
 https://pinia.vuejs.org/
+
+i18n
+
+https://kazupon.github.io/vue-i18n/installation.html#direct-download-cdn
+
+vue add i18n
 ```
