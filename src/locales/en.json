@@ -1,0 +1,8 @@
+{
+  "message": {
+    "hi": "hello i18n !! (json)"
+  },
+  "name": {
+    "email": "Email Adrress"
+  }
+}

@@ -4,6 +4,8 @@
     "module": "esnext",
     "strict": true,
     "jsx": "preserve",
+    "noImplicitAny": true,
+    "checkJs": true,
     "moduleResolution": "node",
     "experimentalDecorators": true,
     "allowJs": true,
@@ -15,7 +17,8 @@
     "sourceMap": true,
     "baseUrl": "./",
     "types": [
-      "webpack-env"
+      "webpack-env",
+      "element-plus/global"
     ],
     "paths": {
       "@/*": [
@@ -34,7 +37,8 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "tests/**/*.tsx",
+    "src/i18n.ts"
   ],
   "exclude": [
     "node_modules"
